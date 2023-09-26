@@ -11,8 +11,8 @@ This program helps you create and maintain positive habits by providing a fast a
 
 # Example
 ### Statistics:
-![Screenshot 2023-09-15 100950](https://github.com/raphaelgebel/habittracker/assets/98976609/9551fabc-d69b-4406-9a2e-7f29f0d5ca7b)
-- As the example shows, the two most common reasons for missing the habit “Working out” are a lack of motivation and feeling too tired.
+![Screenshot 2023-09-26 103055](https://github.com/raphaelgebel/habit-tracker/assets/98976609/32c305ca-6b9d-4a17-8fab-de1dd5c241de)
+- As the example shows, the two most common reasons for missing the habit “Working out” are a lack of motivation and a lack of time.
 - Thanks to this insight, you can adjust your routine accordingly.
 
 # Usage
